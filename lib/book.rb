@@ -15,4 +15,5 @@ class Book
   def genre=(new_genre)
     GENRES << @genre
   end
+  
 end
